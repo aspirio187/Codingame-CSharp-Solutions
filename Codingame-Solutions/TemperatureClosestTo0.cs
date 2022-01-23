@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Codingame_CSharp
+namespace Codingame_Solutions
 {
     public static class TemperatureClosestTo0
     {
